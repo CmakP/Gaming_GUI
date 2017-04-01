@@ -1,0 +1,4 @@
+Data persistence and a graphical user interface for the Games Information System (GIS). 
+The application contains a graphical user interface, which will be displayed when the user runs GIS. The UI will always be displayed even if there are errors loading the data. Errors will be written to the application log files and will be messaged to the user in the form of a simple dialog box.
+All menus and menu items are accessible via a mnemonic character, i,e, the user can press Alt-F Alt-Q to quite the application.
+The Personas menu item will open a dialog that contains a list filled with the Personas. If a row in the list is double-clicked then a new dialog will open with the details for that persona.
